@@ -1,0 +1,2 @@
+# ResetProvisioningProfileTool
+用于清空iOS Provisioning Profiles文件下的所有文件
